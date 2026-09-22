@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EuropApps — AI App Creator</title><link rel="stylesheet" href="/style.css">
+</head><body>
+<header class="topbar"><div class="brand"><span class="logo">E</span> EuropApps</div><span class="badge">AI APP CREATOR</span></header>
+<main class="layout">
+<section class="hero"><p class="eyebrow">BUILD WITH AI</p><h1>Describe an app.<br><span>EuropApps builds the starter.</span></h1>
+<p class="subtitle">Powered by Mistral AI. Your API key stays on the server.</p>
+<div class="creator-card"><label for="prompt">What do you want to build?</label>
+<textarea id="prompt" placeholder="Example: Build a calm task manager with projects, priorities, search, and local storage."></textarea>
+<div class="controls"><select id="model"><option value="mistral-small-latest">Mistral Small</option><option value="mistral-large-latest">Mistral Large</option></select><button id="generate">Create app ✦</button></div>
+<p id="status" class="status"></p></div></section>
+<section id="result" class="result hidden"><div class="result-head"><div><p class="eyebrow">GENERATED APP</p><h2 id="appName">Your app</h2><p id="appDescription"></p></div><button id="download" class="secondary">Download files</button></div>
+<div id="features" class="features"></div><div id="files" class="files"></div></section>
+</main><script src="/app.js"></script></body></html>
