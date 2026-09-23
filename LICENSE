@@ -1,0 +1,59 @@
+INFINITY OPEN SOURCE CODE LICENSE (Infinity OSCL)
+Version 1.1, September 2026
+
+Copyright (c) 2026 [Your Name or Organization]
+Original Creator: [Your Name or Organization]
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definition of Original Creator
+Regardless of the number of modifications, copies, sub-licenses, or downstream distributions (e.g., a copy of a copy of a copy), the individual or entity specified above as the "Original Creator" remains permanently recognized as the sole Original Creator of the foundational source code. All rights, restrictions, and permissions reserved for the Original Creator under this license shall apply across all generations of derivative works.
+
+2. Share and Modification Freely
+You are permitted to use, copy, modify, merge, publish, and distribute this software and its source code to anyone without any restrictions on attribution.
+
+3. Waiver of Attribution (Claiming Authorship)
+You are explicitly allowed to claim that you created the software, the source code, or any modifications thereof by yourself. The Original Creator waives the right to force you to provide credit or maintain original copyright notices.
+
+4. Mandatory Open Source and License Locking
+You are strictly prohibited from closing the source code of this software or any derivative works. The source code of any copy or modification must remain completely public and viewable. 
+
+Furthermore, you are strictly prohibited from re-licensing this software or its derivative works under any other license (including but not limited to MIT, GPL, Apache, or proprietary licenses) without the explicit, prior written permission of the Original Creator. 
+
+5. Future Infinity Licenses Exception
+Notwithstanding Section 4, downstream users are permitted to transition and distribute the software or its derivative works under any future, officially released versions of the Infinity License family (e.g., Infinity OSCL v2.0), should they become available.
+
+6. Commercialization and Pricing Restrictions
+You are prohibited from locking the source code or the software behind a paywall, or making it accessible only upon payment, EXCEPT under the following strict pricing conditions tied to the original project:
+
+a. If the original project is provided completely free of charge (no monetary payments required), any copy, modification, or derivative work MUST also be provided completely free of charge. No fees, subscriptions, or payments may be charged for the software or its source code.
+
+b. If the original project requires a payment or features paid tiers, copies or derivative works may implement charges, provided that the total cost to the user does not exceed the pricing of the original project. You are strictly prohibited from charging higher fees than the original project.
+
+7. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+About
+
+No description, website, or topics provided.
+License
+Activity
+Stars
+0 stars
+Watchers
+0 watching
+Forks
+0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Contributors
+1
+ (1)
+@otizemlanetzag
+otizemlanetzag
+Languages
+Rust
+100%
